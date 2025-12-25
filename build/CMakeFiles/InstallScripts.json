@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/dev/driftfall/build/cmake_install.cmake",
+		"D:/dev/driftfall/build/engine/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
